@@ -6,9 +6,11 @@ A full-stack Task Management Web Application built with the MERN stack. Create, 
 📦 GitHub Repo: [https://github.com/your-username/task-tracker](https://github.com/Gaurav-7065/TaskTracker)
 
 image of Application:
+
 <img width="939" height="418" alt="{B20BC9F1-B2EB-4B69-83EC-685E0551F6AE}" src="https://github.com/user-attachments/assets/a0aa5f2f-f0ff-4726-a1ba-6b7fab24184e" />
 
 🛠 Tech Stack:
+
 <img width="389" height="321" alt="{96025DC0-7BF6-40AF-B79C-491BDB8B38A3}" src="https://github.com/user-attachments/assets/a6de54f1-2c54-4b4e-89c4-ec088996688b" />
 
 
@@ -25,6 +27,7 @@ Core (Mandatory)
 ✅ MongoDB Integration — Mongoose schema with Atlas cloud database
 ✅ Responsive UI — Works on mobile, tablet, and desktop
 ✅ Dynamic Updates — No page refresh needed — React state handles all updates
+
 
 ✨ Extra Feature:
 1.Toogle theme
